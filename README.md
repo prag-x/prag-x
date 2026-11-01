@@ -42,23 +42,7 @@ I enjoy building projects, solving problems, and learning how technology can cre
 
 ---
 
-## 🚀 Featured Projects
 
-### 1. Nidhi – FDR Management Portal
-A document intelligence and financial verification project developed for SIH 2026 (PS 26265).
-
-- Reads FDR documents using OCR.
-- Compares declared values with document and bank values.
-- Tracks maturity information.
-
-[View Project →](https://github.com/prag-x/Nidhi)
-
-### 2. Ekmat
-A project in my development portfolio.
-
-[View Project →](https://github.com/prag-x/Ekmat)
-
----
 
 ## 📊 GitHub Statistics
 
@@ -83,7 +67,8 @@ A project in my development portfolio.
 
 <div align="center">
 
-### Thanks for visiting! ✨
+### Thanks for visiting 
+  my GitHub Profile! ✨
 
 *Always learning. Always building. Always exploring.*
 
